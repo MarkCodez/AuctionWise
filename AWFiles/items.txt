@@ -1,0 +1,5 @@
+Shoes,2,Michael Jordan
+Jersey,5,Lionel Messi
+Gold,42,24 Karrot
+75Mustang,700,Cheverolet
+Helmet,20,Tom Brady
